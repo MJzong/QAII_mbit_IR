@@ -12,7 +12,7 @@ typedef vector<Action> vA;
 
 enum class RemoteButton {
     Power = 0x0,
-	  Up = 0x1,
+	  Up = 0x10,
 	  Left = 0x4,
 	  Right = 0x6,
 	  Down = 0x9,
@@ -23,7 +23,7 @@ enum class RemoteButton {
 	  TLeft = 0x8,
 	  TRight = 0xA,
 	  NUM0 = 0xD,
-	  NUM1 = 0x10,
+	  NUM1 = 0x1,
 	  NUM2 = 0x11,
 	  NUM3 = 0x12,
 	  NUM4 = 0x14,
