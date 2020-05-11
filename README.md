@@ -1,8 +1,8 @@
  # mbit_IR for micro-bit
 
-Extension for Yahboom mbit_IR
+Extension for QAII mbit_IR
 
-Note: IR receiver for Yahboom receiver
+Note: IR receiver for QAII receiver
 
 ## License
 
