@@ -20,18 +20,18 @@ enum class RemoteButton {
     BEEP = 0x1C,
     Plus = 0xc,
     Minus = 0xe,
-    TLeft = 0x45,
-    TRight = 0x46,
+    TLeft = 0x15,
+    TRight = 0x9,
     NUM0 = 0x19,
-    NUM1 = 0x1,
-    NUM2 = 0x11,
+    NUM1 = 0x45,
+    NUM2 = 0x46,
     NUM3 = 0x47,
     NUM4 = 0x44,
     NUM5 = 0x40,
     NUM6 = 0x43,
     NUM7 = 0x7,
-    NUM8 = 0x15,
-    NUM9 = 0x9
+    NUM8 = 0x1,
+    NUM9 = 0x11
 };
 
 enum class Pins{
